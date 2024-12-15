@@ -17,7 +17,7 @@ const Navbar = () => {
     return (
        
         <nav className='bg-black shadow-lg shadow-white text-white flex justify-between items-center px-4 h-16 '>
-            <div className="logo font-bold text-lg flex justify-center items-center "> <img src="image/tea.gif" width={44} alt="" /> <span> GetMeaChai!</span></div>
+            <div className="logo font-bold text-lg flex justify-center items-center "> <img src="tea.gif" width={44} alt="" /> <span> GetMeaChai!</span></div>
             {/* <ul className= ' flex justify-between gap-4 cursor-pointer'>
         <li>Home</li>
         <li>About</li>
